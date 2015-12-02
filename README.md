@@ -1,1 +1,3 @@
-# WE_JavaScript-Start
+# JavaScript Start
+
+Hier sind die Beispieldateien für die Einführung in JavaScript am 07. Dezember 2015.
